@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @satapirom
-[<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI" width="100"/>
-</div>](https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI)https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI
+<div id="header" align="center">
+  <img src="https://assets-global.website-files.com/603c87adb15be3cb0b3ed9b5/61bf0b5c372eeeb5d44b6b5f_6.png" width="100"/>
+</div>
